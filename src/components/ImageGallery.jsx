@@ -5,7 +5,7 @@ export default class ImageGallery extends React.Component{
         return(
             <div className="imageGallery">
                 <div className="imageSlide">
-                    <img src={require("../assests/beach.jpg")} alt=""/>
+                    <img src={require("../assests/beach.jpg")} className="imgGalleryImg" alt=""/>
                 </div>
             </div>
         );
