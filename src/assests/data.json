@@ -1,22 +1,91 @@
-[
+{
+  "menu": [
     {
-    "pargarph":{
-        "firstLine":"We commission the world’s most renowned course architects to",
-      "secondLine":"design spectacular golf experiences on challenging yet ",
-      "thirdLine":"incredibly playable 18-hole courses. Our trademark comfort ",
-      "fourthLine":"stations also set new standards in on-course amenities."
-    },
-    "pargraphTwo":{
-        "firstLine":"Our widely-acclaimed courses have been designed by",
-      "secondLine":"some of the world’s very best architects, including ",
-      "thirdLine":"Robert Trent Jones Jr. and Tom Fazio. "
-    },
-    "pargraphThree":{
-        "firstLine":"And it’s their genius way of transforming unique",
-      "secondLine":"landscapes into stunningly scenic courses that make ",
-      "thirdLine":"our golf experience as beautiful as it is playable. "
+      "id": 1,
+      "what": "What we do",
+      "our": "Our Worlds",
+      "experenice": "Experiences",
+      "company": "Company",
+      "contact": "Contanct"
     }
-
-    
+  ],
+  "text": [
+    {
+      "id": 2,
+      "firstLine": " We commission the world’s most renowned course architects to",
+      "secondLine": "design spectacular golf experiences on challenging yet",
+      "thridLine": " incredibly playable 18-hole courses. Our trademark comfort",
+      "fourthLine": "stations also set new standards in on-course amenities."
+    }
+  ],
+  "footMenu": [
+    {
+      "id": 3,
+      "title": "Company ",
+      "carrers": "Careers",
+      "fondation": "Foundation ",
+      "press": "Press",
+      "privacy": "Privacy",
+      "getInTouch": "Get In Touch",
+      "telephone": "(480) 624-5200",
+      "mail": "mail@discoverylandco.com",
+      "copyWright": "© Discovery Land Company. All rights reserved."
+    }
+  ],
+  "leftText": [
+    {
+      "id": 4,
+      "para1": [
+        "Extraordinary finishing touches",
+        "Our signature clubhouses and comfort stations make",
+        "every round of golf so much more than just a game –",
+        " giving you the opportunity to enjoy outstanding",
+        "amenities with every detail thought of and every taste",
+        "catered to."
+      ],
+      "textTitle": "Extraordinary finishing touches",
+      "paragraph2": [
+        "Take a well-earned breather and recharge in our ",
+        " beautifully relaxed and inviting comfort stations. Admire ",
+        "some of nature’s most breathtaking views while kicking ",
+        "back with a refreshing drink and hearty snack during a ",
+        " round. And if you’ve worked up an appetite for",
+        "something a little more substantial, you’ll also find ",
+        "refined gourmet offerings from our on course chefs",
+        "ready and waiting to take your order."
+      ],
+      "paragraph3": [
+        "Pick up some professional tips with a private lesson or",
+        " practice your game in our state-of-the-art facilities."
+      ]
+    }
+  ],
+  "rightText": [
+    {
+      "id": 5,
+      "textTitle": "Perfect recreation in an unmatched location",
+      "paragraphOne": [
+        "Our widely-acclaimed courses have been designed by",
+        "some of the world’s very best architects, including.",
+        "Robert Trent Jones Jr. and Tom Fazio."
+      ],
+      "paragraphTwo": [
+        " And it’s their genius way of transforming unique",
+        "landscapes into stunningly scenic courses that make",
+        "our golf experience as beautiful as it is playable."
+      ],
+      "paragraphThree": [
+        "Every fairway rewards the perfect drive, every bunker",
+        " has been carefully placed, every pin position has been ",
+        "meticulously planned – with all our courses thoughtfully",
+        "crafted for challenge and leisure."
+      ],
+      "paragraphFour": [
+        "So you can choose to take on your fellow members in",
+        "ultra-competitive annual tournaments, or just play for",
+        "the fun of it…barefoot with the family. This is luxury and",
+        " fun on your own terms."
+      ]
+    }
+  ]
 }
-]
